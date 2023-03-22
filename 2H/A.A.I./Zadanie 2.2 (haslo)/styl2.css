@@ -1,0 +1,50 @@
+header {
+    background-color: #08826A;
+    height: 60px;
+    font-family: Verdana;
+    text-align: center;
+}
+#lewy {
+    float: left;
+    background-color: #1E9880;
+    height: 550px;
+    width: 30%;
+}
+#prawy {
+    float: right;
+    background-color: #9AC8BF;
+    height: 550px;
+    width: 70%;
+    text-align: center;
+}
+footer {
+    background-color: #08826A;
+    font-family: Verdana;
+    color: white;
+    text-align: right;
+}
+a, a:visited {
+    color: white;
+}
+img {
+    margin: 20px;
+    padding: 15px;
+    border: 2px dotted #1E9880;
+}
+table {
+    margin: 20px;
+    border: 1px;
+    width: 80%;
+}
+tr:hover {
+    background-color: green;
+    color: white;
+}
+th{
+    background-color: #1E9880;
+    border: 1px;
+}
+td {
+    border: 1px;
+    text-align: right;
+}

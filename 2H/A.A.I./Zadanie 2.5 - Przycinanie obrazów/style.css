@@ -1,0 +1,14 @@
+img {
+    position: absolute;
+    clip: rect(53px, 534px, 187px, 352px);
+}
+
+#obraz1 {
+    top: 20vh;
+    left: 10vw;
+}
+
+#obraz2 {
+    top: 12vh;
+    left: 17vw;
+}

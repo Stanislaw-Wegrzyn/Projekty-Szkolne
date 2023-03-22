@@ -1,0 +1,5 @@
+kwerenda A: SELECT `Tytul` FROM `filmy` WHERE `Gatunek` = "SF";
+kwerenda B: SELECT filmy.Tytul, rezyserzy.Nazwisko FROM filmy INNER JOIN rezyserzy ON filmy.RezyserID = rezyserzy.IDRezyser;
+kwerenda C: SELECT filmy.IDFilm, filmy.Tytul, filmy.Gatunek, filmy.RezyserID, filmy.RecenzjaID, filmy.Link FROM filmy INNER JOIN recenzje ON filmy.RecenzjaID = recenzje.IDRecenzja AND recenzje.Ocena = 4;
+kwerenda D: INSERT INTO `rezyserzy`(`IDRezyser`, `Imie`, `Nazwisko`) VALUES (4, "Andrzej", "Wajda");
+

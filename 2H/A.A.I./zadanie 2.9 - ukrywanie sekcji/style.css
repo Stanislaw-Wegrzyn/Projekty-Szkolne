@@ -1,0 +1,65 @@
+:root {
+    --kolorBanera: darkgreen;
+    --kolorZawarosci: yellow;
+    --kolorLewego: yellowgreen;
+    --kolorPrawego: yellowgreen;
+    --kolorStopki: darkslategray;
+    --wysokoscBanera: 150px;
+    --wysokoscZawartosci: 450px;
+    --szerokoscLewego: 30%;
+    --szerokoscCentrum: 45%;
+}
+body{
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#baner {
+    position: absolute;
+    width: 100%;
+    height: var(--wysokoscBanera);
+    background-color: var(--kolorBanera);
+}
+#zawartosc {
+    position: absolute;
+    top: var(--wysokoscBanera);
+    width: 100%;
+    height: var(--wysokoscZawartosci);
+    background-color: var(--kolorZawarosci);
+}
+#stopka {
+    position: absolute;
+    top: calc(var(--wysokoscBanera) + var(--wysokoscZawartosci) ) ;
+    width: 100%;
+    height: calc(100% - var(--wysokoscBanera) - var(--wysokoscZawartosci));
+    background-color: var(--kolorStopki);
+}
+#lewy {
+    width: var(--szerokoscLewego);
+    height: 100%;
+    background-color: var(--kolorLewego);
+    float: left;
+}
+#centrum {
+    width: var(--szerokoscCentrum);
+    height: 100%;
+    float: left;
+}
+#prawy {
+    width: calc(100% - var(--szerokoscLewego) - var(--szerokoscCentrum));
+    height: 100%;
+    background-color: var(--kolorPrawego);
+    float: left;
+}
+.kontener20 {
+    padding: 20px;
+}
+#baner, #stopka {
+    color: white;
+}
+.linkiMenu {
+    cursor: pointer;
+}
+.linkiMenu:hover {
+    text-decoration: underline;
+}
