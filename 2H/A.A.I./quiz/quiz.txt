@@ -1,0 +1,467 @@
+Który kod jest alternatywny do kodu zamieszczonego poniżej?
+<?php
+
+    for ($x=1; $x<=55; $x++)
+    {
+
+        if ($x %2 != 0) continue;
+        echo $x." ";
+
+    }
+
+?>
+Odp
+<?php
+for($x=2; $x<=54; $x+=2) { echo $x." "; }
+?>
+----------------------------------------------------
+Aby stworzyć tabelę w bazie danych, należy zastosować polecenie SQL
+Odp
+CREATE TABLE
+----------------------------------------------------
+Wskaż prawidłową kolejność tworzenia aplikacji
+Odp
+Analiza wymagań klienta, specyfikacja wymagań, tworzenie, testy, wdrażanie
+----------------------------------------------------
+Wynikiem działania zamieszczonej poniżej pętli zapisanej w języku PHP jest wypisanie kolejnych liczb
+for ($i = 10; $i >= 1; $i--) echo $i;
+Odp
+od 10 do 1
+----------------------------------------------------
+Które z pól są umieszczone w formularzu?
+obrazek
+Odp
+Input(Text), Select, Input(Radio), Input(Radio), Input(Submit), Input(Reset)
+----------------------------------------------------
+W poniższym fragmencie kodu CSS kolor jest zapisany w postaci
+color: #008000
+Odp
+szesnastkowej
+----------------------------------------------------
+Co wybiera kod $("div.rodzic") ?
+Odp
+wszystkie elementy div z klasą rodzic
+----------------------------------------------------
+W języku PHP w instrukcji wyboru musi występować
+Odp
+konstrukcja switch(wyrażenie)
+----------------------------------------------------
+Które ze stwierdzeń prawidłowo charakteryzuje zdefiniowaną tabelę: CREATE TABLE dane (kolumna INTEGER(3));
+Odp
+Tabela o nazwie dane posiada jedną kolumnę liczb całkowitych
+----------------------------------------------------
+Co oznacza pojęcie Encja?
+Odp
+Indywidualny, rozpoznawalny w rzeczywistości obiekt
+----------------------------------------------------
+W języku SQL wykorzystywanym przez bazę danych MySQL atrybut UNIQUE polecenia CREATE TABLE
+Odp
+jest stosowany, jeśli wartości w kolumnie nie mogą się powtarzać.
+----------------------------------------------------
+W poleceniach, których celem jest odtwarzanie na stronie internetowej dźwięku jako podkładu muzycznego NIE wykorzystuje się atrybutu
+Odp
+href="C:/100.wav">
+----------------------------------------------------
+Wskaż prawidłową kolejność tworzenia bazy danych
+Odp
+Określenie celu, stworzenie tabel, utworzenie relacji, normalizacja
+----------------------------------------------------
+Aby strona WWW była responsywna, należy między innymi definiować
+Odp
+rozmiary obrazów w procentach.
+----------------------------------------------------
+W języku skryptowym JavaScript zmienne mogą być deklarowane
+Odp
+w momencie pierwszego użycia zmiennej
+----------------------------------------------------
+Zadeklarowanie komendą using języka C# odpowiedniej biblioteki pozwala na użycie typu MySqlDataReader, który umożliwia tworzenie zmiennych służących do
+Odp
+odczytu danych z tabel MS SQL Server
+----------------------------------------------------
+Jaki program komputerowy przekształca kod źródłowy, napisany w konkretnym języku programowania, na język komputera?
+Odp
+Kompilator
+----------------------------------------------------
+Jak rozpoczyna się pętla FOR w JavaScript?
+Odp
+for (i = 0; i <= 5; i++)
+----------------------------------------------------
+Wskaż sposób, w jaki należy odwołać się do pliku default.css, jeśli index.html znajduje się bezpośrednio w katalogu Strona?
+obrazek
+Odp
+<link rel="stylesheet" type="text/css" href="./style/default.css" />
+----------------------------------------------------
+Wskaż poprawną kolejność etapów projektowania relacyjnej bazy danych
+Odp
+Określenie zbioru danych, Określenie kluczy podstawowych tabel, Określenie relacji, Selekcja
+----------------------------------------------------
+AngularJS to
+Odp
+lekki framework JavaScript oparty o wzorzec projektowy MV*
+----------------------------------------------------
+Strona HTML definiuje akapit oraz rysunek. Aby rysunek został umieszczony przez przeglądarkę w tej samej linii co akapit po jego lewej stronie, należy w stylu CSS rysunku zawrzeć własność
+Odp
+float: left;
+----------------------------------------------------
+Odwoływanie funkcji do samej siebie to
+Odp
+rekurencja
+----------------------------------------------------
+Którego ze słów kluczowych języka SQL należy użyć, aby wyeliminować duplikaty?
+Odp
+DISTINCT
+----------------------------------------------------
+W języku HTML atrybut alt znacznika img jest wykorzystywany w celu zdefiniowania
+Odp
+tekstu, który będzie wyświetlony, jeśli nie może być wyświetlona grafika
+----------------------------------------------------
+W podanej poniżej regule CSS h1 oznacza: 
+h1 {color: blue} 
+Odp
+selektor
+----------------------------------------------------
+Polecenie w języku SQL ALTER TABLE USA... ma za zadanie
+Odp
+modyfikację tabeli USA
+----------------------------------------------------
+Aby edytować nakładające się na siebie pojedyncze fragmenty obrazu, pozostawiając pozostałe elementy niezmienione, należy zastosować
+Odp
+warstwy.
+----------------------------------------------------
+Relacja w bazach danych jest
+Odp
+logicznym połączeniem tabel
+----------------------------------------------------
+Które wartości będą kolejno wypisane w wyniku działania przedstawionego poniżej skryptu
+<SCRIPT language="JavaScript">
+var x = 1;
+var y;
+/*0*/ ++y;
+/*1*/document.write(++x);
+/*2*/document.write(" ");
+/*3*/document.write(x--);
+/*4*/document.write(" ");
+/*5*/document.write(x);
+</SCRIPT>
+Odp
+2 2 1
+----------------------------------------------------
+W języku CSS określono formatowanie znacznika h1 według wzoru. Zakładając, że żadne inne formatowanie nie jest dodane do znacznika h1, wskaż sposób formatowania tego znacznika
+h1{ font-style: oblique;
+font-variant: small-caps;
+text-align: right; }
+Odp
+screen1.jpg
+----------------------------------------------------
+Wskaż BŁĘDNĄ dyrektywę Angular
+Odp
+ng-directive='nazwaDyrektywy'
+----------------------------------------------------
+W języku CSS wartości: underline, overline, blink przyjmują atrybut
+Odp
+text-decoration
+----------------------------------------------------
+Aby zobaczyć wyniki działania skryptu napisanego w języku PHP, będącego elementem strony WWW, musi być on
+Odp
+zinterpretowany po stronie serwera
+----------------------------------------------------
+W językach programowania zmienna typu integer służy do przechowywania
+Odp
+liczby całkowitej
+----------------------------------------------------
+W języku HTML znacznik <strong> tekst</strong> będzie wyświetlany w ten sam sposób przez przeglądarkę co znacznik
+Odp
+<b>tekst</b>
+----------------------------------------------------
+Jak posortowana będzie lista, utworzona ze wszystkich kolumn tabeli uczniowie i zawierająca uczniów ze średnią większą od 5, która zostanie zwrócona jako wynik przedstawionego poniżej zapytania?
+SELECT * FROM uczniowie WHERE srednia > 5 ORDER BY klasa DESC;
+Odp
+Malejąco według parametru klasa
+----------------------------------------------------
+Które oprogramowanie NIE JEST systemem zarządzania treścią (CMS)?
+Odp
+Apache
+----------------------------------------------------
+Deklaracja w języku JavaScript: var x=true; powoduje, że zmienna x jest typu
+Odp
+logicznego
+----------------------------------------------------
+Która z zasad tworzenia części <head> języka HTML jest poprawna
+Odp
+W części <head>  mogą wystąpić znaczniki <meta>, <title>, <link>
+----------------------------------------------------
+Co zwróci jako wynik wiersz JavaScript:
+Boolean(10 > 9)
+Odp
+true
+----------------------------------------------------
+Które z poleceń umożliwia dodanie kolumny zadaniekompletne do tabeli zadania?
+Odp
+ALTER TABLE zadania ADD COLUMN zadaniekompletne int
+----------------------------------------------------
+W algebrze relacji operacja selekcji polega na
+Odp
+wybraniu krotek spełniających określone warunki
+----------------------------------------------------
+Jakiego rodzaju mechanizm kontroli bezpieczeństwa wykonywania aplikacji zawiera środowisko uruchomieniowe platformy .NET Framework?
+Odp
+Mechanizm wykonywania aplikacji oparty na uprawnieniach kodu (CAS - Code Access Security) i na rolach (RBS - Role-Based Security)
+----------------------------------------------------
+Powiązanie listy Osób z gridem aplikacji internetowej na ekranie uzyskujemy za pomocą wiersza
+Odp
+nazwaTabeli.DataSource = listaOsób;
+----------------------------------------------------
+W jaki sposób wywołujemy funkcję nazwaną "myFunction" w JavaScript?
+var funkcja = function myFunction() { //...
+Odp
+myFunction()
+----------------------------------------------------
+Kod zamieszczony poniżej spowoduje wypisanie liczb
+    <?php
+
+        for($x=1; $x<=10; $x++)
+        {
+
+            if($x % 2 != 0) continue;
+            echo $x." ";
+
+        }
+
+    ?>
+Odp
+2 4 6 8 10
+----------------------------------------------------
+W języku CSS zdefiniowano styl. Sformatowana stylem sekcja będzie zawierała obramowanie o szerokości
+div { border: solid 2px blue; margin: 20px;}
+Odp
+2 px oraz marginesy na zewnątrz tego obramowania.
+----------------------------------------------------
+W jaki sposób dodajemy komentarz wielowierszowy w JavaScript?
+Odp
+/*This comment has
+more than one line*/
+----------------------------------------------------
+Wskaż słowo kluczowe w języku C++ dodawane przed wbudowanym typem danych, które przesuwa zakres liczby na liczby wyłącznie nieujemne
+Odp
+unsigned
+----------------------------------------------------
+W języku SQL przywilej SELECT polecenia GRANT pozwala użytkownikowi baz danych na
+Odp
+odczyt danych z tabeli
+----------------------------------------------------
+W jaki sposób należy zadeklarować zmienną w języku JavaScript?
+Odp
+var wynikiSportowe;
+----------------------------------------------------
+W jaki sposób osadzamy aplikację AngularJS na stronie www w skrypcie JavaScript?
+Odp
+
+-------------------------------------------------------
+Który z serwerów http jest rozwiązaniem firmy Microsoft?
+Odp
+IIS
+-------------------------------------------------------
+Jak tworzymy listę osób w C# mając definicję klasy Osoba?
+Odp
+List<Osoba> listaOsób = new List<Osoba>();
+-------------------------------------------------------
+Aby ustawić tło na stronie www należy uzupełnić wybranym kolorem polecenie
+Odp
+<body bgcolor=""> </body>
+-------------------------------------------------------
+jQuery to:
+Odp
+JavaScript
+-------------------------------------------------------
+Który z wymienionych formatów plików graficznych obsługuje przezroczystość?
+Odp
+PNG
+-------------------------------------------------------
+Zapisując hasło użytkownika serwisu WWW (np. bankowości internetowej), w celu jego zabezpieczenia przed odtajnieniem, zwykle używa się funkcji
+Odp
+klucza
+-------------------------------------------------------
+W jaki sposób należy zaokrąglić 7.25 do najbliższej liczby całkowitej w języku JavaScript?
+Odp
+Math.round(7.25)
+-------------------------------------------------------
+Zamieszczony poniżej fragment kodu w JavaScript wypisze:
+    x = 'Powodzenia na egzaminie';
+    y = x.substring(3,9);
+    document.write(y.substring(2,4));
+Odp
+"ze"
+-------------------------------------------------------
+W języku HTML, aby zapisać sekcję cytatu, która może zawierać kilka paragrafów tak, by przeglądarka dodała wspólne wcięcie, należy zastosować znacznik
+Odp
+<blockquote>
+-------------------------------------------------------
+CDN służy do
+Odp
+dystrybucji
+-------------------------------------------------------
+Saturacja koloru nazywana jest inaczej
+Odp
+nasyceniem koloru
+-------------------------------------------------------
+Start jQuery następuje przy użyciu:
+Odp
+$onload();
+-------------------------------------------------------
+Która z wymienionych funkcji sortowania wykorzystywana w języku PHP sortuje tablicę asocjacyjną według indeksów
+Odp
+ksort()
+-------------------------------------------------------
+W programowaniu obiektowym mechanizm współdzielenia pól i metod klasy w taki sposób, że klasa pochodna zawiera metody zdefiniowane w klasie bazowej nazywa się
+Odp
+dziedziczeniem
+-------------------------------------------------------
+Który z formatów NIE pozwala na zapis plików animowanych?
+Odp
+ACE
+-------------------------------------------------------
+W jaki sposób można wykryć nazwę przeglądarki w JavaScript?
+Odp
+navigator.appName
+-------------------------------------------------------
+Jak redagujemy instrukcję IF by kod programu JavaScript był uruchamiany gdy i jest różne od 5?
+Odp
+if (i != 5)
+-------------------------------------------------------
+Wskaż właściwą hierarchię pojęć
+Odp
+pole, rekord, tabela, baza danych
+-------------------------------------------------------
+W jaki sposób sprawdzamy, że element jest pusty?
+Odp
+if ($('#element')==null) { }
+-------------------------------------------------------
+Rozmycie Gaussa, wygładzanie, szum RGB są funkcjami programu do obróbki
+Odp
+grafiki rastrowej.
+-------------------------------------------------------
+Co jest faktycznie przechowywane w bazie danych?
+Odp
+Dane
+-------------------------------------------------------
+Modelem barw opisującym kolor z użyciem stożka przestrzeni barw jest
+Odp
+HSV
+-------------------------------------------------------
+W przedstawionej definicji stylu CSS, powtarzanie dotyczy
+body {
+background-image: url("rysunek.gif");
+background-repeat: repeat-y;
+Odp
+rysunku umieszczonego w tle strony w pionie.
+-------------------------------------------------------
+Jakiego typu specjalizowane oprogramowanie należy zainstalować, aby umożliwić jego użytkownikowi wykonywanie operacji na zgromadzonych danych?
+Odp
+System Zarządzania Bazą Danych (SZBD)
+-------------------------------------------------------
+Co należy zastosować w organizacji danych, aby zapytania w bazie danych były wykonywane szybciej?
+Odp
+Indeksy
+-------------------------------------------------------
+W procesie walidacji stron internetowych nie bada się
+Odp
+źródła pochodzenia narzędzi edytorskich
+-------------------------------------------------------
+Kolor 255 12 12 w modelu RGB na stronie www powinien być zapisany w postaci
+Odp
+#FF0C0C
+-------------------------------------------------------
+Jak nazywa się podzbiór strukturalnego języka zapytań, związany z formułowaniem zapytań do bazy danych za pomocą polecenia SELECT?
+Odp
+SQL DQL (ang. Data Query Language)
+-------------------------------------------------------
+Do edycji grafiki wektorowej stosuje się program
+Odp
+CorelDraw!
+-------------------------------------------------------
+Wskaż zdanie fałszywe
+Odp
+Tabela nie zawiera powtarzających się wierszy
+-------------------------------------------------------
+Model opisu przestrzeni barw o parametrach: odcień, nasycenie i jasność, to
+Odp
+HSV
+-------------------------------------------------------
+Funkcja agregująca MIN języka SQL ma za zadanie policzyć
+Odp
+wartość minimalną kolumny zwróconej kwerendą.
+-------------------------------------------------------
+W dokumencie rozpoczynającym projekt informatyczny określa się
+Odp
+sponsora projektu, wykonawców, kamienie milowe, zasoby
+-------------------------------------------------------
+Polecenie w języku SQL GRANT ALL PRIVILEGES ON klienci TO pracownik
+Odp
+nadaje wszystkie uprawnienia do tabeli klienci użytkownikowi pracownik
+-------------------------------------------------------
+W znaczniku (w części) strony www NIE umieszcza się informacji dotyczącej
+Odp
+typu dokumentu
+-------------------------------------------------------
+Sposób programowania, w którym ciąg poleceń (sekwencji instrukcji) przekazywanych komputerowi jest postrzegany jako program, nosi nazwę programowania
+Odp
+imperatywnego
+-------------------------------------------------------
+Jak wygląda prawidłowo sformułowana składnia JavaScript pozwalająca na zmianę zawartości poniższego elementu HTML?
+<p id="demo">Zapis przykładowy.</p> 
+Odp
+document.getElementById("demo").innerHTML = "Hello World!";
+-------------------------------------------------------
+Przedstawiono fragment kodu HTML, który nie waliduje się poprawnie. Błąd walidacji tego fragmentu kodu będzie dotyczył
+<!DOCTYPE html>
+<html>
+<head>
+<title>Test</title>
+</head>
+<body>
+<img src="/obraz.gif alt="Obrazek">
+<h1>Rozdział 1</h1>
+<p>To jest tekst paragrafu, ...</p>
+<br>
+<img src="/obraz.gif" alt="Obrazek">
+</body>
+</html>
+Odp
+braku cudzysłowu.
+-------------------------------------------------------
+W jaki sposób można wyprowadzić napis "Witaj Świecie!" za pomocą okna alertu?
+Odp
+alert("Witaj Świecie!");
+-------------------------------------------------------
+Domyślna nazwa pliku zmieniającego lub rozszerzającego konfigurację serwera Apache to
+Odp
+.htaccess
+-------------------------------------------------------
+Jak wygląda prawidłowe otwarcie nowego okna nazwanego "w2" w JavaScript?
+Odp
+w2 = window.open("http://www.w3schools.com");
+-------------------------------------------------------
+Trójkąt zarządzania projektem zawiera
+Odp
+zakres, czas i pieniądze
+-------------------------------------------------------
+Do reprezentacji liczb zmiennoprzecinkowych w języku C stosowany jest typ
+Odp
+double
+-------------------------------------------------------
+Fizyczny model replikacji bazy danych przedstawiony na rysunku jest modelem
+obrazek
+Odp
+centralnego wydawcy
+-------------------------------------------------------
+Aby przygotować szablon strony z trzema kolumnami ustawionymi obok siebie, można posłużyć się stylem CSS
+Odp
+.kolumny{ float: left; width: 33%; }
+-------------------------------------------------------
+Jaka jest prawidłowa składnia wywołania zewnętrznego skryptu nazwanego zadanie.js?
+Odp
+<script src="zadanie.js">
+-------------------------------------------------------
+Jak się nazywa połączenie pomiędzy poszczególnymi tabelami?
+Odp
+Relacja

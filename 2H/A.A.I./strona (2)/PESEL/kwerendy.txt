@@ -1,0 +1,4 @@
+Zapytanie 1: SELECT `nazwa`,`wystepowanie` FROM `ryby` WHERE `styl_zycia` = 1;
+Zapytanie 2: SELECT `Ryby_id`, `wymiar_ochronny` FROM `okres_ochronny` WHERE `wymiar_ochronny` < 50;
+Zapytanie 3: SELECT a.`nazwa`, b.akwen, b.wojewodztwo FROM `ryby` a, `lowisko` b WHERE a.id = b.Ryby_id AND b.rodzaj = 2;
+Zapytanie 4: ALTER TABLE `ryby` ADD `dobowy_limit` INT;

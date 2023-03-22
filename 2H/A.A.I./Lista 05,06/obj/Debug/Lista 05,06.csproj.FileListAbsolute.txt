@@ -1,0 +1,33 @@
+D:\Szkoła\klasa 2\ap.int\Lista 05,06\bin\Debug\Lista 05,06.exe.config
+D:\Szkoła\klasa 2\ap.int\Lista 05,06\bin\Debug\Lista 05,06.exe
+D:\Szkoła\klasa 2\ap.int\Lista 05,06\bin\Debug\Lista 05,06.pdb
+D:\Szkoła\klasa 2\ap.int\Lista 05,06\obj\Debug\Lista 05,06.csproj.AssemblyReference.cache
+D:\Szkoła\klasa 2\ap.int\Lista 05,06\obj\Debug\Lista 05,06.csproj.SuggestedBindingRedirects.cache
+D:\Szkoła\klasa 2\ap.int\Lista 05,06\obj\Debug\Lista_05_06.Form1.resources
+D:\Szkoła\klasa 2\ap.int\Lista 05,06\obj\Debug\Lista_05_06.Properties.Resources.resources
+D:\Szkoła\klasa 2\ap.int\Lista 05,06\obj\Debug\Lista 05,06.csproj.GenerateResource.cache
+D:\Szkoła\klasa 2\ap.int\Lista 05,06\obj\Debug\Lista 05,06.csproj.CoreCompileInputs.cache
+D:\Szkoła\klasa 2\ap.int\Lista 05,06\obj\Debug\Lista 05,06.exe
+D:\Szkoła\klasa 2\ap.int\Lista 05,06\obj\Debug\Lista 05,06.pdb
+C:\Users\ezn\Desktop\Lista 05,06\bin\Debug\Lista 05,06.exe.config
+C:\Users\ezn\Desktop\Lista 05,06\bin\Debug\Lista 05,06.exe
+C:\Users\ezn\Desktop\Lista 05,06\bin\Debug\Lista 05,06.pdb
+C:\Users\ezn\Desktop\Lista 05,06\obj\Debug\Lista 05,06.csproj.AssemblyReference.cache
+C:\Users\ezn\Desktop\Lista 05,06\obj\Debug\Lista 05,06.csproj.SuggestedBindingRedirects.cache
+C:\Users\ezn\Desktop\Lista 05,06\obj\Debug\Lista_05_06.Form1.resources
+C:\Users\ezn\Desktop\Lista 05,06\obj\Debug\Lista_05_06.Properties.Resources.resources
+C:\Users\ezn\Desktop\Lista 05,06\obj\Debug\Lista 05,06.csproj.GenerateResource.cache
+C:\Users\ezn\Desktop\Lista 05,06\obj\Debug\Lista 05,06.csproj.CoreCompileInputs.cache
+C:\Users\ezn\Desktop\Lista 05,06\obj\Debug\Lista 05,06.exe
+C:\Users\ezn\Desktop\Lista 05,06\obj\Debug\Lista 05,06.pdb
+C:\Users\B09\OneDrive - Elektroniczne Zakłady Naukowe we Wrocławiu\Desktop\Lista 05,06\bin\Debug\Lista 05,06.exe.config
+C:\Users\B09\OneDrive - Elektroniczne Zakłady Naukowe we Wrocławiu\Desktop\Lista 05,06\bin\Debug\Lista 05,06.exe
+C:\Users\B09\OneDrive - Elektroniczne Zakłady Naukowe we Wrocławiu\Desktop\Lista 05,06\bin\Debug\Lista 05,06.pdb
+C:\Users\B09\OneDrive - Elektroniczne Zakłady Naukowe we Wrocławiu\Desktop\Lista 05,06\obj\Debug\Lista 05,06.csproj.AssemblyReference.cache
+C:\Users\B09\OneDrive - Elektroniczne Zakłady Naukowe we Wrocławiu\Desktop\Lista 05,06\obj\Debug\Lista 05,06.csproj.SuggestedBindingRedirects.cache
+C:\Users\B09\OneDrive - Elektroniczne Zakłady Naukowe we Wrocławiu\Desktop\Lista 05,06\obj\Debug\Lista_05_06.Form1.resources
+C:\Users\B09\OneDrive - Elektroniczne Zakłady Naukowe we Wrocławiu\Desktop\Lista 05,06\obj\Debug\Lista_05_06.Properties.Resources.resources
+C:\Users\B09\OneDrive - Elektroniczne Zakłady Naukowe we Wrocławiu\Desktop\Lista 05,06\obj\Debug\Lista 05,06.csproj.GenerateResource.cache
+C:\Users\B09\OneDrive - Elektroniczne Zakłady Naukowe we Wrocławiu\Desktop\Lista 05,06\obj\Debug\Lista 05,06.csproj.CoreCompileInputs.cache
+C:\Users\B09\OneDrive - Elektroniczne Zakłady Naukowe we Wrocławiu\Desktop\Lista 05,06\obj\Debug\Lista 05,06.exe
+C:\Users\B09\OneDrive - Elektroniczne Zakłady Naukowe we Wrocławiu\Desktop\Lista 05,06\obj\Debug\Lista 05,06.pdb

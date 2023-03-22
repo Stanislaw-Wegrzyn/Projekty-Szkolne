@@ -1,0 +1,36 @@
+F:\Klasa 2\ApInt\Lista 10 - Nuty\bin\Debug\net6.0-windows\Lista 10 - Nuty.exe
+F:\Klasa 2\ApInt\Lista 10 - Nuty\bin\Debug\net6.0-windows\Lista 10 - Nuty.deps.json
+F:\Klasa 2\ApInt\Lista 10 - Nuty\bin\Debug\net6.0-windows\Lista 10 - Nuty.runtimeconfig.json
+F:\Klasa 2\ApInt\Lista 10 - Nuty\bin\Debug\net6.0-windows\Lista 10 - Nuty.dll
+F:\Klasa 2\ApInt\Lista 10 - Nuty\bin\Debug\net6.0-windows\Lista 10 - Nuty.pdb
+F:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.csproj.AssemblyReference.cache
+F:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista_10___Nuty.Form1.resources
+F:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista_10___Nuty.Properties.Resources.resources
+F:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.csproj.GenerateResource.cache
+F:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.GeneratedMSBuildEditorConfig.editorconfig
+F:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.AssemblyInfoInputs.cache
+F:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.AssemblyInfo.cs
+F:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.csproj.CoreCompileInputs.cache
+F:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.dll
+F:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\refint\Lista 10 - Nuty.dll
+F:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.pdb
+F:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.genruntimeconfig.cache
+F:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\ref\Lista 10 - Nuty.dll
+D:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.csproj.AssemblyReference.cache
+D:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista_10___Nuty.Form1.resources
+D:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista_10___Nuty.Properties.Resources.resources
+D:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.csproj.GenerateResource.cache
+D:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.AssemblyInfoInputs.cache
+D:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.AssemblyInfo.cs
+D:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.csproj.CoreCompileInputs.cache
+D:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.dll
+D:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\refint\Lista 10 - Nuty.dll
+D:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.pdb
+D:\Klasa 2\ApInt\Lista 10 - Nuty\bin\Debug\net6.0-windows\Lista 10 - Nuty.exe
+D:\Klasa 2\ApInt\Lista 10 - Nuty\bin\Debug\net6.0-windows\Lista 10 - Nuty.deps.json
+D:\Klasa 2\ApInt\Lista 10 - Nuty\bin\Debug\net6.0-windows\Lista 10 - Nuty.runtimeconfig.json
+D:\Klasa 2\ApInt\Lista 10 - Nuty\bin\Debug\net6.0-windows\Lista 10 - Nuty.dll
+D:\Klasa 2\ApInt\Lista 10 - Nuty\bin\Debug\net6.0-windows\Lista 10 - Nuty.pdb
+D:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\Lista 10 - Nuty.genruntimeconfig.cache
+D:\Klasa 2\ApInt\Lista 10 - Nuty\obj\Debug\net6.0-windows\ref\Lista 10 - Nuty.dll

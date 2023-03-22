@@ -1,0 +1,104 @@
+
+  Zadania - struktury danych
+
+ 1. Sprawdź w internecie jak działa wprowadzanie i pobieranie danych w strukturach:
+    - stos
+    - kolejka
+    - lista
+    - tablica Hashtable
+ 2. Czy w wymienionych powyżej strukturach mogą istnieć duplikaty?
+ 3. Pobierz z internetu czcionkę w kształcie nut (patrz adresy w pliku NUTY.XLS) i zainstaluj ją w systemie
+ 4. Utwórz Okno edycji nut zawierające następujące elementy:
+    - przycisk włączający edycję nut
+    - przycisk odtwarzający wpisany utwór
+    - przycisk zapisu/odczytu utworu na dysku
+    - przycisk decydujący czy wstawiany do utworu znak będzie nutą czy pauzą
+    - przyciski regulujące wysokość tonu
+    - przyciski regulujące długość nuty/pauzy
+    - przyciski operacji na utworze:
+      * dodawanie nuty
+      * kasowanie nuty
+      * przyciski lewo/prawo ustawiające kontekst dodawania/kasowania przy pracy z listą nut
+    - pole edycyjne prezentujące nutę przeznaczoną do wstawienia
+    - pole edycyjne prezentujące całość utworu
+    - przyciski radio button (stos, kolejka, lista)
+    - element graficzny (np. logo, tło, ...)
+ 5. Wstawiając elementy okna pamiętaj o prawidłowym nazewnictwie - nie używamy skrótów, styl camel! 
+    Zadbaj o szatę graficzną - logiczne rozmieszczenie kontrolek.
+ 6. Odszukaj w internecie jakie parametry ma rozkaz Console.Beep i jakiej biblioteki należy użyć by wykorzystać ten rozkaz.
+ 7. Oprogramuj przycisk odtwarzania utworu tak by zagrał gamę.
+ 8. Przygotuj typy wyliczeniowe
+   - typ znaku muzycznego (nuta, pauza, ...)
+    - wysokość nuty (C, D, ...)
+    - długość nuty/pauzy
+    - typ edycji (stos, kolejka, lista)
+ 9. Zadeklaruj klasę ZnakuPięciolinii zawierającą informacje
+    - typ znaku (np. nuta, pauza, klucz, ...)
+    - kod muzyczny nuty (C, D, E, F, ... Cis, Dis, ... Ceis, Deis, ...) uwzględnij w kodowaniu wysokość oktawy (np. C4, C5, ...)
+    - długość trwania nuty lub pauzy
+10. Zadeklaruj klasę OpisNuty zawierającą
+    - indeks
+    - kod muzyczny nuty
+    - częstotliwość
+    - literę nuty (font) (może być kilka liter w zależności od długości trwania)
+11. Zadeklaruj główne "pola" (zmienne globalne) klasy okno edycji:
+    - tablicę hashtable zawierającą długości trwania nut (cała nuta, półnuta, ćwiartka,...)
+    - lista wysokości nut (zawierająca jednocześnie listę liter reprezentujących daną nutę o różnych długościach trwania)
+    - znak do wstawienia jako znak pięciolinii (widoczny w polu edycyjnym nuty do wstawienia)
+    - utwór jako listę znaków pięciolinii (widoczny w polu edycyjnym utworu)
+    - typ edycji wskazujący czy dodawanie i usuwanie nut ma odbywać się w trybie pracy stosu, kolejki czy listy
+    - pozycja kursora:
+         pole używane do wskazania, w którym miejscu wstawiana lub wycinana jest nuta 
+         (tylko przy edycji w trybie listy)
+12. W procedurze ładującej okno edycji zadeklaruj początkowe wartości wymienionych powyżej pól.
+
+13. Przygotuj procedurę ustalającą aktywność przycisków w zależności od tego 
+    czy program jest w trybie edycji utworu czy w trybie odtwarzania lub zapisu na dysku.
+14. Napisz procedury ustalające właściwości "pola" znak do wstawienia:
+    - oprogramowanie przycisków regulujących długość nuty: Dłużej/Krócej
+    - oprogramowanie przycisków regulujących częstotliwość (wyskokość) nuty: WyższyTon/NiższyTon
+15. Oprogramuj przycisk decydujący czy wstawiany znak jest nutą czy pauzą.
+16. Oprogramuj przyciski radio button tak aby pole typu edycji wskazywało 
+    czy mamy do czynienia z edycją w trybie stosu, kolejki czy listy.
+17. Oprogramuj działanie przycisku wstawiającego nutę do utworu tak by:
+    - "pole" znak do wstawienia było dodawane do "pola" z utworem,
+    - font z tekstBox do wstawienia pojawił się w textBoksie utworu.
+18. Oprogramuj działanie przycisku kasującego nutę z utworu tak by:
+    - nuta była usuwana z "pola" zawierającego utwór,
+    - czcionka nuty w textBoksie utworu została wykasowana.
+19. Oprogramuj przyciski przesuwania nuty w lewo lub w prawo, które mają być aktywne przy trybie edycji "lista".
+    - program ma ustawiać fokus na polu edycyjnym utworu i dokonywać selekcji jednej nuty 
+    - jeśli kursor stoi przed pierwszym znakiem muzycznym nie ma zaznaczonych żadnych nut
+20. Zmień działanie przycisków wstawiania i kasowania nuty tak by dokonywane ono było w miejscu wskazanym kursorem
+    (na bazie "pola" pozycja kursora)
+21. Zmień działanie przycisku odtwarzającego utwór tak by można było usłyszeć cały utwór.
+22. Utwórz okno operacji dyskowych: odczyt utworu, zapis utworu. 
+    Odczyty i zapisy w postaci XML np. według wzoru poniżej.
+    Oprogramowanie tego okna można odłożyć do czasu zakończenia oprogramowywania okna edycji.
+
+    <utwór>
+      <znakPięciolinii>
+        <typZnaku>
+           nuta
+        </typZnaku>
+        <długość>
+          półnuta
+        </długość>
+        <wysokość>
+           C4
+        </wysokość>
+      </znakPięciolinii>
+      <znakPięciolinii>
+        <typZnaku>
+           pauza
+        </typZnaku>
+        <długość>
+          ósemka
+        </długość>
+        <wysokość>
+           C0
+        </wysokość>
+      </znakPięciolinii>
+      ...
+    </utwór>
+23. W MS Word przygotuj opis programu: specyfikacja danych, zrzuty ekranu, funkcjonalność.

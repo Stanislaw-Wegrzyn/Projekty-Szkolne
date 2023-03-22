@@ -1,0 +1,48 @@
+14. Napisz procedury ustalające właściwości "pola" znak do wstawienia:
+    - oprogramowanie przycisków regulujących długość nuty: Dłużej/Krócej
+    - oprogramowanie przycisków regulujących częstotliwość (wyskokość) nuty: WyższyTon/NiższyTon
+15. Oprogramuj przycisk decydujący czy wstawiany znak jest nutą czy pauzą.
+16. Oprogramuj przyciski radio button tak aby pole typu edycji wskazywało 
+    czy mamy do czynienia z edycją w trybie stosu, kolejki czy listy.
+17. Oprogramuj działanie przycisku wstawiającego nutę do utworu tak by:
+    - "pole" znak do wstawienia było dodawane do "pola" z utworem,
+    - font z tekstBox do wstawienia pojawił się w textBoksie utworu.
+18. Oprogramuj działanie przycisku kasującego nutę z utworu tak by:
+    - nuta była usuwana z "pola" zawierającego utwór,
+    - czcionka nuty w textBoksie utworu została wykasowana.
+19. Oprogramuj przyciski przesuwania nuty w lewo lub w prawo, które mają być aktywne przy trybie edycji "lista".
+    - program ma ustawiać fokus na polu edycyjnym utworu i dokonywać selekcji jednej nuty 
+    - jeśli kursor stoi przed pierwszym znakiem muzycznym nie ma zaznaczonych żadnych nut
+20. Zmień działanie przycisków wstawiania i kasowania nuty tak by dokonywane ono było w miejscu wskazanym kursorem
+    (na bazie "pola" pozycja kursora)
+21. Zmień działanie przycisku odtwarzającego utwór tak by można było usłyszeć cały utwór.
+22. Utwórz okno operacji dyskowych: odczyt utworu, zapis utworu. 
+    Odczyty i zapisy w postaci XML np. według wzoru poniżej.
+    Oprogramowanie tego okna można odłożyć do czasu zakończenia oprogramowywania okna edycji.
+
+    <utwór>
+      <znakPięciolinii>
+        <typZnaku>
+           nuta
+        </typZnaku>
+        <długość>
+          półnuta
+        </długość>
+        <wysokość>
+           C4
+        </wysokość>
+      </znakPięciolinii>
+      <znakPięciolinii>
+        <typZnaku>
+           pauza
+        </typZnaku>
+        <długość>
+          ósemka
+        </długość>
+        <wysokość>
+           C0
+        </wysokość>
+      </znakPięciolinii>
+      ...
+    </utwór>
+23. W MS Word przygotuj opis programu: specyfikacja danych, zrzuty ekranu, funkcjonalność.
