@@ -1,0 +1,104 @@
+:root {
+    --header_color: blue;
+    --left_color: aliceblue;
+    --centre_color: aqua;
+    --right_color: aliceblue;
+    --footer_color: aquamarine;
+
+    --grid_rows_prop: 5;
+    --grid_column_prop: 4;
+
+    --flex_rows_porp: 5;
+    --flex_column_prop: 4;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.grid {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: grid;
+    grid-template-rows: calc(100% / var(--grid_rows_prop)) calc(100% / var(--grid_rows_prop) * 3) calc(100% / var(--grid_rows_prop));
+    grid-template-columns: calc(100% / var(--grid_column_prop)) calc(100% / var(--grid_column_prop) * 2) calc(100% / var(--grid_column_prop));
+    width: 100vw;
+    height: 100vh;
+}
+
+.grid > header {
+    grid-column: 1/var(--grid_column_prop);
+    background-color: var(--header_color);
+}
+
+.grid > footer {
+    grid-column: 1/var(--grid_column_prop);
+    background-color: var(--footer_color);
+}
+
+.grid > #left {
+    background-color: var(--left_color);
+}
+
+.grid > #centre {
+    background-color: var(--centre_color);
+}
+
+.grid > #right {
+    background-color: var(--right_color);
+}
+
+.grid > div, .grid > header, .grid > footer {
+    text-align: center;
+}
+
+.flexbox {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.flexbox > #flexbox-centre {
+    width: 100%;
+    flex-basis: calc(100% / var(--flex_rows_porp) * 3);
+    display: flex;
+    flex-direction: row;
+}
+
+.flexbox > #flexbox-centre > div, .flexbox > header, .flexbox > footer {
+    text-align: center;
+}
+
+.flexbox > header {
+    flex-basis: calc(100% / var(--flex_rows_porp));
+    background-color: var(--header_color);
+}
+
+.flexbox > footer {
+    flex-basis: calc(100% / var(--flex_rows_porp));
+    background-color: var(--footer_color);
+}
+
+.flexbox > #flexbox-centre > #left {
+    flex-basis: calc(100% / var(--flex_column_prop));
+    background-color: var(--left_color);
+}
+
+.flexbox > #flexbox-centre > #centre {
+    flex-basis: calc(100% / var(--flex_column_prop)*2);
+    background-color: var(--centre_color);
+}
+
+.flexbox > #flexbox-centre > #right {
+    flex-basis: calc(100% / var(--flex_column_prop));
+    background-color: var(--right_color);
+}

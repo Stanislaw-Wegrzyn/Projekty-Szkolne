@@ -1,0 +1,44 @@
+D:\ApInt\OperacjNaPlikachTekstowych\bin\Debug\OperacjNaPlikachTekstowych.exe.config
+D:\ApInt\OperacjNaPlikachTekstowych\bin\Debug\OperacjNaPlikachTekstowych.exe
+D:\ApInt\OperacjNaPlikachTekstowych\bin\Debug\OperacjNaPlikachTekstowych.pdb
+D:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.csproj.AssemblyReference.cache
+D:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.csproj.SuggestedBindingRedirects.cache
+D:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.Form1.resources
+D:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.Properties.Resources.resources
+D:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.csproj.GenerateResource.cache
+D:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.csproj.CoreCompileInputs.cache
+D:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.exe
+D:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.pdb
+J:\ApInt\OperacjNaPlikachTekstowych\bin\Debug\OperacjNaPlikachTekstowych.exe.config
+J:\ApInt\OperacjNaPlikachTekstowych\bin\Debug\OperacjNaPlikachTekstowych.exe
+J:\ApInt\OperacjNaPlikachTekstowych\bin\Debug\OperacjNaPlikachTekstowych.pdb
+J:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.csproj.AssemblyReference.cache
+J:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.csproj.SuggestedBindingRedirects.cache
+J:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.Form1.resources
+J:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.Properties.Resources.resources
+J:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.csproj.GenerateResource.cache
+J:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.csproj.CoreCompileInputs.cache
+J:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.exe
+J:\ApInt\OperacjNaPlikachTekstowych\obj\Debug\OperacjNaPlikachTekstowych.pdb
+C:\Users\ezn\Downloads\wertepy-main\2H\Ap. Int\Zadanie 4 i 5\Rozwiazanie\bin\Debug\OperacjNaPlikachTekstowych.exe.config
+C:\Users\ezn\Downloads\wertepy-main\2H\Ap. Int\Zadanie 4 i 5\Rozwiazanie\bin\Debug\OperacjNaPlikachTekstowych.exe
+C:\Users\ezn\Downloads\wertepy-main\2H\Ap. Int\Zadanie 4 i 5\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.csproj.AssemblyReference.cache
+C:\Users\ezn\Downloads\wertepy-main\2H\Ap. Int\Zadanie 4 i 5\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.csproj.SuggestedBindingRedirects.cache
+C:\Users\ezn\Downloads\wertepy-main\2H\Ap. Int\Zadanie 4 i 5\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.Form1.resources
+C:\Users\ezn\Downloads\wertepy-main\2H\Ap. Int\Zadanie 4 i 5\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.Properties.Resources.resources
+C:\Users\ezn\Downloads\wertepy-main\2H\Ap. Int\Zadanie 4 i 5\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.csproj.GenerateResource.cache
+C:\Users\ezn\Downloads\wertepy-main\2H\Ap. Int\Zadanie 4 i 5\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.csproj.CoreCompileInputs.cache
+C:\Users\ezn\Downloads\wertepy-main\2H\Ap. Int\Zadanie 4 i 5\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.exe
+C:\Users\ezn\Downloads\wertepy-main\2H\Ap. Int\Zadanie 4 i 5\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.pdb
+C:\Users\ezn\Downloads\wertepy-main\2H\Ap. Int\Zadanie 4 i 5\Rozwiazanie\bin\Debug\OperacjNaPlikachTekstowych.pdb
+C:\Users\ezn\Desktop\Rozwiazanie\bin\Debug\OperacjNaPlikachTekstowych.exe.config
+C:\Users\ezn\Desktop\Rozwiazanie\bin\Debug\OperacjNaPlikachTekstowych.exe
+C:\Users\ezn\Desktop\Rozwiazanie\bin\Debug\OperacjNaPlikachTekstowych.pdb
+C:\Users\ezn\Desktop\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.csproj.AssemblyReference.cache
+C:\Users\ezn\Desktop\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.csproj.SuggestedBindingRedirects.cache
+C:\Users\ezn\Desktop\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.Form1.resources
+C:\Users\ezn\Desktop\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.Properties.Resources.resources
+C:\Users\ezn\Desktop\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.csproj.GenerateResource.cache
+C:\Users\ezn\Desktop\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.csproj.CoreCompileInputs.cache
+C:\Users\ezn\Desktop\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.exe
+C:\Users\ezn\Desktop\Rozwiazanie\obj\Debug\OperacjNaPlikachTekstowych.pdb

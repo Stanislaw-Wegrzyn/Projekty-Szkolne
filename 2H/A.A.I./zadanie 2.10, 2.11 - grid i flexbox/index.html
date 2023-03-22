@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <article class="grid" id="1">
+        <header><h2>GRID</h2></header>
+        <div id="left"><h3>Zawartość lewego panelu</h3></div>
+        <div id="centre"><h3>Zawartość środkowego panelu</h3><br> <img src="grid.png" alt="obrazek" width="400px" height="300px"> </div>
+        <div id="right"><h3>Zawartość prawego panelu</h3></div>
+        <footer>
+            <h3>STOPKA</h3><br>
+            <button onclick="przelaczanieGrid()">Przełącz do strony z flexboxem</button>
+        </footer>
+    </article>
+
+
+
+    <article class="flexbox" style="visibility: hidden;" id="2">
+        <header><h2>FLEXBOX</h2></header>
+        <div id="flexbox-centre">
+            <div id="left"><h3>Zawartość lewego panelu</h3></div>
+            <div id="centre"><h3>Zawartość środkowego panelu</h3><br> <img src="flexbox.png" alt="obrazek" width="400px" height="300px"> </div>
+            <div id="right"><h3>Zawartość prawego panelu</h3></div>
+        </div>
+        <footer>
+            <h3>STOPKA</h3><br>
+            <button onclick="przelaczanieFlex()">Przełącz do strony z gridem</button>
+        </footer>
+    </article>
+
+    <script>
+        function przelaczanieGrid(){
+            document.getElementById("2").style.visibility = "visible";
+            document.getElementById("1").style.visibility = "hidden";
+        }
+
+        function przelaczanieFlex(){
+            document.getElementById("1").style.visibility = "visible";
+            document.getElementById("2").style.visibility = "hidden";
+        }
+    </script>
+</body>
+</html>
