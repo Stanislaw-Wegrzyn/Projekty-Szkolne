@@ -7,6 +7,7 @@ Mam dwa przedmioty szkolne zawodowe:
   <li>A.A.I - Administrowanie Aplikacjami Internetowymi </li>
   <li>P.P.T.A. - Programowanie Projektowanie i Testowanie Aplikacji </li>
 </ul>
+<br>
 Ze względu na chorobe nauczyciela i braki kadrowe w szkole przez większość roku szkolnego nie mieliśmy lekcji z P.P.T.A. dlatego też mam zapisaną tylko jedną pracę, jednakże nauczyciel od tego przedmioty głównie przygotowuje mnie do różnorodnych konkursów opisanych w respozytorium <a>tutaj</a> ().
 
 
